@@ -1,0 +1,1 @@
+RUBYLIB=src rspec
